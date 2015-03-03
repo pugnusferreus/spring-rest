@@ -98,7 +98,6 @@
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
-                <targetPath>path/to/destination/</targetPath> 
                 <includes>
                     <include>**/*.xml</include>
                 </includes>
